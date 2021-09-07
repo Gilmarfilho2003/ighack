@@ -333,11 +333,11 @@ echo -e '\e[91m
 echo -e "\e[92m"
 center "OPTIONS"
 echo " "
-echo -e "\e[91m[\e[92m1\e[91m]\e[34m WATCH VIDEO ->\e[92m"
-echo -e "\e[91m[\e[92m2\e[91m]\e[34m READ POST ->\e[92m"
+echo -e "\e[91m[\e[92m1\e[91m]\e[34m está com Dúvida clique aqui ->\e[92m"
+echo -e "\e[91m[\e[92m2\e[91m]\e[34m LEIA O MANUAL->\e[92m"
 echo -e "\e[91m[\e[92m3\e[91m]\e[34m DOWNLOAD PDF ->\e[92m"
 echo -e "\e[91m[\e[92m4\e[91m]\e[34m MORE ->\e[92m"
-echo -e "\e[91m[\e[92m5\e[91m]\e[34m EXIT ->\e[92m"
+echo -e "\e[91m[\e[92m5\e[91m]\e[34m SAIDA ->\e[92m"
 echo ' '
 echo -en "\e[34m~SELECT OPTION: \e[92m"
 read opts
@@ -347,7 +347,7 @@ am start -a android.intent.action.VIEW -d https://noobhacktube.com/v/r2ttPR 2>/d
 help
 elif [ "$opts" = "2" ];                             
 then
-am start -a android.intent.action.VIEW -d https://bit.ly/3hF5PT2 2>/dev/null
+am start -a android.intent.action.VIEW -d https://hackinstagram100funcinal.blogspot.com/2021/09/ighack-brute-force.html 2>/dev/null
 clear
 help
 elif [ "$opts" = "3" ];                             
