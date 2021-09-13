@@ -67,8 +67,7 @@ echo -e "\e[91mTOR\e[96m IS NOT RUNNING, PLEASE START TOR IN A NEW SESSION
 exit 1
 fi
 vid
-##############3
-print('''
+#############3
  
   _____ _   _  _____ _______       _____ _____            __  __ 
  |_   _| \ | |/ ____|__   __|/\   / ____|  __ \     /\   |  \/  |
@@ -80,7 +79,7 @@ print('''
                                                                  
                                          
                                                         
-\e[0m'
+
 printf "\n"
 printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
 printf "\n"
